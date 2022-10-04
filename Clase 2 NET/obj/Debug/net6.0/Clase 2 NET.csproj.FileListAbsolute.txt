@@ -1,0 +1,15 @@
+E:\Curso .NET\Clase 2 NET\bin\Debug\net6.0\Clase 2 NET.exe
+E:\Curso .NET\Clase 2 NET\bin\Debug\net6.0\Clase 2 NET.deps.json
+E:\Curso .NET\Clase 2 NET\bin\Debug\net6.0\Clase 2 NET.runtimeconfig.json
+E:\Curso .NET\Clase 2 NET\bin\Debug\net6.0\Clase 2 NET.dll
+E:\Curso .NET\Clase 2 NET\bin\Debug\net6.0\Clase 2 NET.pdb
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\Clase 2 NET.csproj.AssemblyReference.cache
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\Clase 2 NET.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\Clase 2 NET.AssemblyInfoInputs.cache
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\Clase 2 NET.AssemblyInfo.cs
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\Clase 2 NET.csproj.CoreCompileInputs.cache
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\Clase 2 NET.dll
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\refint\Clase 2 NET.dll
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\Clase 2 NET.pdb
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\Clase 2 NET.genruntimeconfig.cache
+E:\Curso .NET\Clase 2 NET\obj\Debug\net6.0\ref\Clase 2 NET.dll

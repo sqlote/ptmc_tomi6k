@@ -1,0 +1,15 @@
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\Tarea Clase 6.csproj.AssemblyReference.cache
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\Tarea Clase 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\Tarea Clase 6.AssemblyInfoInputs.cache
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\Tarea Clase 6.AssemblyInfo.cs
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\Tarea Clase 6.csproj.CoreCompileInputs.cache
+E:\Curso .NET\Tarea Clase 6\bin\Debug\net6.0\Tarea Clase 6.exe
+E:\Curso .NET\Tarea Clase 6\bin\Debug\net6.0\Tarea Clase 6.deps.json
+E:\Curso .NET\Tarea Clase 6\bin\Debug\net6.0\Tarea Clase 6.runtimeconfig.json
+E:\Curso .NET\Tarea Clase 6\bin\Debug\net6.0\Tarea Clase 6.dll
+E:\Curso .NET\Tarea Clase 6\bin\Debug\net6.0\Tarea Clase 6.pdb
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\Tarea Clase 6.dll
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\refint\Tarea Clase 6.dll
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\Tarea Clase 6.pdb
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\Tarea Clase 6.genruntimeconfig.cache
+E:\Curso .NET\Tarea Clase 6\obj\Debug\net6.0\ref\Tarea Clase 6.dll

@@ -1,0 +1,15 @@
+E:\Curso .NET\Ejercicio Extra 2\bin\Debug\net6.0\Ejercicio Extra 2.exe
+E:\Curso .NET\Ejercicio Extra 2\bin\Debug\net6.0\Ejercicio Extra 2.deps.json
+E:\Curso .NET\Ejercicio Extra 2\bin\Debug\net6.0\Ejercicio Extra 2.runtimeconfig.json
+E:\Curso .NET\Ejercicio Extra 2\bin\Debug\net6.0\Ejercicio Extra 2.dll
+E:\Curso .NET\Ejercicio Extra 2\bin\Debug\net6.0\Ejercicio Extra 2.pdb
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\Ejercicio Extra 2.csproj.AssemblyReference.cache
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\Ejercicio Extra 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\Ejercicio Extra 2.AssemblyInfoInputs.cache
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\Ejercicio Extra 2.AssemblyInfo.cs
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\Ejercicio Extra 2.csproj.CoreCompileInputs.cache
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\Ejercicio Extra 2.dll
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\refint\Ejercicio Extra 2.dll
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\Ejercicio Extra 2.pdb
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\Ejercicio Extra 2.genruntimeconfig.cache
+E:\Curso .NET\Ejercicio Extra 2\obj\Debug\net6.0\ref\Ejercicio Extra 2.dll
