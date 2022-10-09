@@ -1,0 +1,5 @@
+C:\Users\tms1c\OneDrive\Documentos\GitHub\ptmc_tomi6k\Clase 13\Clase 13\obj\Debug\net6.0\Clase 13.csproj.AssemblyReference.cache
+C:\Users\tms1c\OneDrive\Documentos\GitHub\ptmc_tomi6k\Clase 13\Clase 13\obj\Debug\net6.0\Clase 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tms1c\OneDrive\Documentos\GitHub\ptmc_tomi6k\Clase 13\Clase 13\obj\Debug\net6.0\Clase 13.AssemblyInfoInputs.cache
+C:\Users\tms1c\OneDrive\Documentos\GitHub\ptmc_tomi6k\Clase 13\Clase 13\obj\Debug\net6.0\Clase 13.AssemblyInfo.cs
+C:\Users\tms1c\OneDrive\Documentos\GitHub\ptmc_tomi6k\Clase 13\Clase 13\obj\Debug\net6.0\Clase 13.csproj.CoreCompileInputs.cache
