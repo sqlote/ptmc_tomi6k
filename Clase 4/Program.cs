@@ -132,17 +132,36 @@
 
 //Lo que continue.....
 
-Console.WriteLine("Desea continuar? (S/N)");
-var texto = Console.ReadLine();
+//Console.WriteLine("Desea continuar? (S/N)");
+//var texto = Console.ReadLine();
 
-if (texto.ToUpper()=="S")
-{
-    Console.WriteLine("Usted ingreso que SI");
-}
-else if (texto.ToLower()=="n") 
-{
-    Console.WriteLine("Usted Ingreso que NO");
-} else
-{
-    Console.WriteLine("Usted no entendio nada");
-}
+//if (texto.ToUpper()=="S")
+//{
+//    Console.WriteLine("Usted ingreso que SI");
+//}
+//else if (texto.ToLower()=="n") 
+//{
+//    Console.WriteLine("Usted Ingreso que NO");
+//} else
+//{
+//    Console.WriteLine("Usted no entendio nada");
+//}
+
+
+
+//Console.WriteLine("Ingrese un numero: ");
+
+//int num1 = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Ingrese otro numero: ");
+
+//int num2 = int.Parse(Console.ReadLine());
+
+//int resultado = num1 + num2;
+
+//Console.WriteLine("El resultado de la suma de ambos numeros es: " + resultado );
+
+
+
+
+
